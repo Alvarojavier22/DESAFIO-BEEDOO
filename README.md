@@ -1,9 +1,6 @@
 # Desafio-Analista-de-Qualidade-de-Software-Junior
 Este desafio tem o objetivo de avaliar meus conhecimentos e habilidades em teste de software.
 
-Link do google docs https://docs.google.com/spreadsheets/d/1OOfBwrUNSsQA0OUZsBiArJfsvUnWvgxNiFYyK4pRpAM/edit?gid=0#gid=0
-
-
 ## User Story 1: Registro de um novo curso
 
 **Como** instrutor,  
@@ -37,3 +34,9 @@ Link do google docs https://docs.google.com/spreadsheets/d/1OOfBwrUNSsQA0OUZsBiA
 
 ### Critérios de aceitação:
 - O sistema deve mostrar uma aba com os cursos ja registrados na plataforma.
+
+
+
+Link dos casos de Teste: https://docs.google.com/spreadsheets/d/1OOfBwrUNSsQA0OUZsBiArJfsvUnWvgxNiFYyK4pRpAM/edit?gid=0#gid=0
+Link Documentacao: https://docs.google.com/document/d/1z1PCTHWIyn7bD8uURlcYlKtEj5BmrxCP4PvitMsveBU/edit#heading=h.j86izpnz7dde
+Link Video: https://drive.google.com/file/d/111f2br1CT7pSTXeUu_NGi-Zq7USMSl0Q/view?usp=drive_link
